@@ -97,3 +97,7 @@ can potentially see what the healthy options are next time they go somewhere wit
 previously added by someone who knows what they're talking about. Possibly take in a photo
 of the item as well as its name and description, maybe even the physical location or the store
 or restaurant where it can be found.
+
+## Disaster Relief
+* One major challenge in disasters is to coordinate communication so people can effectively organize. SparkRelief, a nonprofit focused primarily on disaster relief and recover is looking to build a central hub for communication, where people can call, text, or email in their requests or reports and the information can be effectively managed and distributed. An initial version of this project for this weekend might look like a platform where people can text in requests, and this information will be added to "cards" for further notes, organization and communication.
+* Another very useful application in disaster relief would be the ability to more effectively coordinate real time location information. A minimum viable product version of this might look like the ability for users to opt-in to share their location to be shown on a map.
